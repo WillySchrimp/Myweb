@@ -67,7 +67,7 @@ form button:hover {
     background: #555;
 }
 
-/* Table styling */
+
 table {
     width: 100%;
     border-collapse: collapse;
@@ -89,18 +89,15 @@ table tr:nth-child(even) {
     background: #f9f9f9;
 }
 
-/* Add a hover effect for links */
 nav ul li a:hover {
     color: #00f;
 }
 
-/* Nested list styling */
 ul ul {
     margin-left: 20px;
     list-style-type: circle;
 }
 
-/* Non-trivial selector example */
 nav > ul > li + li {
     border-left: 1px solid #555;
     padding-left: 15px;
